@@ -1,0 +1,24 @@
+#mbt-news-feed {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    bottom: 3.125vw;
+    right: 20px;
+    right: 3.125vw;
+}
+
+#mbt-news-feed a.button{
+    display: block;
+    border-radius: 2px;
+    border-radius: 0.625vw;
+    padding: 5px 10px;
+    padding: 1.5625vw 3.125vw;
+    color: #fff;
+    background-color: #333;
+    background-color: rgba(51,51,51,.8);
+    opacity: .5;
+}
+
+#mbt-news-feed a.button:hover{
+    opacity: 1;
+}
